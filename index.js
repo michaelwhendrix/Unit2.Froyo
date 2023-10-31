@@ -22,6 +22,6 @@ const userFlavorCount =(flavorList) => {
 // add for loop to get each index in array
 //as logic became more complex forgot lost track of pseudocode - sorry
 
-const flavorListInput = prompt("Enter list of all the flavors in order. Separate the flavors by comma and space( e.g Vanilla, Chocolate, Vanilla, Cherry).");
+const flavorListInput = prompt("Enter list of all the flavors in order. Separate the flavors by comma and space( e.g Vanilla, Chocolate, Vanilla, Cherry).Watch spelling and spaces.");
 console.log(userFlavorCount(flavorListInput));
 //userFlavorCount('vanilla, chocolate, peach, chocolate, vanilla, vanilla, strawberry, chocolate, peach, rocky road, cherry, cherry, vanilla');
